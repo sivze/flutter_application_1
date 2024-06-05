@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987752711098",
+    "project_id": "second-phd4wg",
+    "storage_bucket": "second-phd4wg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987752711098:android:bcd492c86c4adeecb2d383",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JBE2YPbhPB6hmWOI1PqJJ1mJyTKLGMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
